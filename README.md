@@ -4,7 +4,7 @@ By Emil Joseph
 
 ## Attributions
 
-Worked together with [Nhat](https://github.com/nhaatn)
+Worked together with [Nhat](https://github.com/nhaatn)  
 Instructor's starter code.
 
 ## Links
